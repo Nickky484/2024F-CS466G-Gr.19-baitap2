@@ -4,7 +4,7 @@ body {
     padding: 0;
     font-family: 'Roboto', sans-serif; /* Phông chữ hiện đại, dễ đọc */
     background: linear-gradient(135deg, rgba(255, 87, 51, 0.7), rgba(255, 173, 96, 0.6)); /* Gradient màu nóng phối loãng */
-    background-image: url('https://i.pinimg.com/736x/98/5c/78/985c7868a37ac896b27aa65cc5478c11.jpg'); /* Hình ảnh nền */
+    background-image: url('https://i.pinimg.com/736x/d3/86/8d/d3868d8ff0697c52bc523cbbb3cf34d1.jpg'); /* Hình ảnh nền */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
