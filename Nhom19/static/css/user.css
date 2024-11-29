@@ -3,7 +3,12 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(135deg, #ff9a9e, #fad0c4); /* Gradient màu ấm */
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4); 
+    background-image: url('https://i.pinimg.com/736x/c7/85/58/c78558112fd607f03a7421e67332a418.jpg'); /* Hình ảnh nền */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
